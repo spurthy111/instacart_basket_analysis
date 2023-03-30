@@ -1,0 +1,2 @@
+This project analyzes customer transaction data from the Instacart grocery delivery service to identify patterns and insights that can inform business decisions. The project uses a dataset provided by Instacart that contains information on over three million orders from more than 200,000 customers.
+Full dataset can be found here:   https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis
